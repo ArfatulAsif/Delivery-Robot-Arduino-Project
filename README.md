@@ -60,6 +60,9 @@ The proposed solution has the following objectives:
 ---
 
 ## Hardware Requirements
+
+<img src= "aurdino materials.jpeg" style="height: 600px;">
+
 1. **Arduino UNO:** A microcontroller board based on the ATmega328P with 14 digital input/output pins, 6 analog inputs, a 16 MHz ceramic resonator, a USB connection, a power jack, an ICSP header, and a reset button.
 2. **IR Sensor:** Detects and responds to infrared radiation in the environment. We will use range-adjustable IR sensors.
 3. **Motor Driver:** DC motor drivers for the robot's mobility.
