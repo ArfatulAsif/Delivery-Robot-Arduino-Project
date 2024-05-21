@@ -2,6 +2,7 @@
 
 ## DELIVERY ROBOT
 
+<img src="delivery robot image.jpeg">
 ---
 
 ## Abstract
