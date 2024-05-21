@@ -69,6 +69,11 @@ We need the Arduino IDE software for the project. We will write custom programs 
 
 ---
 
+## The Delivery Robot
+
+<img src = "Delivery robot.jpeg">
+
+---
 
 ## Demonstration of our project.
 
