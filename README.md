@@ -77,7 +77,7 @@ We need the Arduino IDE software for the project. We will write custom programs 
 
 ## Demonstration of our project.
 
-
+<img src = "Demo robot.gif">
 
 
 ## Cost Estimation
