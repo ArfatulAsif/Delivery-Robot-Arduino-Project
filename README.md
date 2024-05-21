@@ -2,7 +2,8 @@
 
 ## DELIVERY ROBOT
 
-<img src="delivery robot image.jpeg">
+<img src="delivery robot image.jpeg" style="height: 850px;">
+
 ---
 
 ## Abstract
