@@ -79,6 +79,126 @@ We need the Arduino IDE software for the project. We will write custom programs 
 
 <img src = "Demo robot.gif">
 
+**Here this robot is following a fix path on a demo restaurant**
+
+[ Include one for obstacle avoiding ]
+
+---
+
+# Robot Construction and Arduino and other connections.
+
+[ include a coverless image ]
+
+
+<table>
+  <caption><strong> L293D Motor Driver and Arduino : </strong></caption>
+  <tr>
+    <th>L293D Pin</th>
+    <th>Arduino UNO R3 Pin</th>
+    <th>Remarks</th>
+  </tr>
+  <tr>
+    <td>ENA</td>
+    <td>10</td>
+    <td>Left motor’s speed control</td>
+  </tr>
+  <tr>
+    <td>ENB</td>
+    <td>11</td>
+    <td>Right motor’s speed control</td>
+  </tr>
+  <tr>
+    <td>IN1</td>
+    <td>2</td>
+    <td>Forward/backward motion of left motor</td>
+  </tr>
+  <tr>
+    <td>IN2</td>
+    <td>3</td>
+    <td>Forward/backward motion of left motor</td>
+  </tr>
+  <tr>
+    <td>IN3</td>
+    <td>4</td>
+    <td>Forward/backward motion of right motor</td>
+  </tr>
+  <tr>
+    <td>IN4</td>
+    <td>5</td>
+    <td>Forward/backward motion of right motor</td>
+  </tr>
+  <tr>
+    <td>Vin</td>
+    <td>Vin</td>
+    <td>Motor’s Power</td>
+  </tr>
+  <tr>
+    <td>GND</td>
+    <td>GND</td>
+    <td>All grounds should be connected</td>
+  </tr>
+</table>
+
+---
+
+<table>
+  <caption><strong> Digital IR Sensor Array2 (TCRT5000)</strong></caption>
+  <tr>
+    <th>IR Sensor Array2 Pin</th>
+    <th>Arduino UNO R3 Pin</th>
+    <th>Remarks</th>
+  </tr>
+  <tr>
+    <td>VCC</td>
+    <td>5V</td>
+    <td>Sensor power</td>
+  </tr>
+  <tr>
+    <td>GND</td>
+    <td>GND</td>
+    <td>All grounds should be connected</td>
+  </tr>
+  <tr>
+    <td>SEN1</td>
+    <td>12</td>
+    <td>Left sensor</td>
+  </tr>
+  <tr>
+    <td>SEN2</td>
+    <td>13</td>
+    <td>Right sensor</td>
+  </tr>
+</table>
+
+
+---
+
+<table>
+  <caption><strong>Arduino to HC SR-04 Ultrasonic Distance Sensor</strong></caption>
+  <tr>
+    <th>Arduino Pin</th>
+    <th>HC SR-04 Pin</th>
+  </tr>
+  <tr>
+    <td>A0</td>
+    <td>Trig</td>
+  </tr>
+  <tr>
+    <td>A1</td>
+    <td>Echo</td>
+  </tr>
+  <tr>
+    <td>5V</td>
+    <td>Vcc</td>
+  </tr>
+  <tr>
+    <td>GND</td>
+    <td>GND</td>
+  </tr>
+</table>
+
+
+
 
 ## Cost Estimation
 Our initial estimation is approximately BDT 6000 - 12,000 for the prototype. We have included cost-effective items in the list of requirements.
