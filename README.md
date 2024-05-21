@@ -18,9 +18,14 @@ The delivery robot that we are aiming to make will be a line-following robot. It
 - [Aim and Objectives for the Proposed Solution](#aim-and-objectives-for-the-proposed-solution)
 - [Hardware Requirements](#hardware-requirements)
 - [Software Requirements](#software-requirements)
+- [The Delivery Robot](#the-delivery-robot)
+- [Demonstration of our project](#demonstration-of-our-project)
+- [Robot Construction and Arduino and other connections](#robot-construction-and-arduino-and-other-connections)
 - [Cost Estimation](#cost-estimation)
 - [Conclusion](#conclusion)
 - [References](#references)
+- [Authors](#authors)
+
 
 
 ---
