@@ -2,14 +2,6 @@
 
 ## DELIVERY ROBOT
 
-### Authors
-- **Arfatul Islam Asif** (Registration No: 2020331017)
-- **Mahmudul Amin** (Registration No: 2020331071)
-- **Kazi Nusrat Tasneem** (Registration No: 2020331066)
-- **Kamrun Sumaiya** (Registration No: 2020331020)
-- **Nadia** (Registration No: 2020331077)
-- **Naila Nausheen Rahman** (Registration No: 2020331010)
-
 ---
 
 ## Abstract
@@ -77,8 +69,14 @@ We need the Arduino IDE software for the project. We will write custom programs 
 
 ---
 
+
+## Demonstration of our project.
+
+
+
+
 ## Cost Estimation
-Our initial estimation is approximately BDT 12,000 for the prototype. We have included cost-effective items in the list of requirements.
+Our initial estimation is approximately BDT 6000 - 12,000 for the prototype. We have included cost-effective items in the list of requirements.
 
 ---
 
@@ -95,3 +93,13 @@ In summary, the development of a line-following restaurant delivery robot using 
 3. J. Chandrashekhara, Divya M. S, Shivaprasad M S. ‘Food Serving Robot for Contactless Experience’, International Journal of Innovative Research in Computer Science & Technology (IJIRCST) ISSN: 2347-5552, Volume-10, Issue-3, May 2022 https://doi.org/10.55524/ijircst.2022.10.3.11 Article ID IRP1265, Pages 58-61 www.ijircst.org
 4. https://www.linkedin.com/pulse/current-state-development-food-delivery-robots-%E6%B7%B1%E5%9C%B3%E5%B8%82%E9%94%90%E6%9B%BC%E6%99%BA%E8%83%BD%E8%A3%85%E5%A4%87%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/
 5. https://docs.arduino.cc/hardware/uno-rev3/
+
+## Authors
+- **Arfatul Islam Asif** (Registration No: 2020331017)
+- **Mahmudul Amin** (Registration No: 2020331071)
+- **Naila Nausheen Rahman** (Registration No: 2020331010)
+- **Kazi Nusrat Tasneem** (Registration No: 2020331066)
+- **Kamrun Sumaiya** (Registration No: 2020331020)
+- **Nadia** (Registration No: 2020331077)
+
+---
