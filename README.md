@@ -91,13 +91,11 @@ We need the Arduino IDE software for the project. We will write custom programs 
 
 **Here this robot is following a fix path on a demo restaurant**
 
-[ Include one for obstacle avoiding ]
-
 ---
 
 # Robot Construction and Arduino and other connections.
 
-[ include a coverless image ]
+<img src = "open view.jpeg">
 
 
 <table>
